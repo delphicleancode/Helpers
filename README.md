@@ -1,8 +1,9 @@
 ### Delphi Helpers 
 
 **Descrição:** 
-Este repositório contém um conjunto de Helpers que podem ser utilizados para melhorar e simplificar o desenvolvimento com componentes da cxGrid com Delphi.
+Este repositório contém um conjunto de Helpers que podem ser utilizados para melhorar e simplificar o desenvolvimento com Delphi.
 
+#### **cxGrid.Helper:**
 #### **Classes e Métodos:**
 
 1. **TcxGridsHelper:** Helper para TcxGrid
